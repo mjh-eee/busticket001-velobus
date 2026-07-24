@@ -1,0 +1,6 @@
+{
+  "name": "VeloBus",
+  "description": "A premium, modern bus ticket booking platform with interactive seat maps, real-time route filters, instant booking, digital QR tickets, and operator analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
